@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "adTest"
 include(":app")
+include(":mraidTest")
